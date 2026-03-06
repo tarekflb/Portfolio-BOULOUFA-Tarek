@@ -1,5 +1,5 @@
 # portfolio
-# Nour – Portfolio
+# BOULOUFA Tarek – Portfolio
 
 ## About me
 Student in computer science interested in Artificial Intelligence,
@@ -24,7 +24,7 @@ Python, OpenCV
 Link:
 https://github.com/yourproject
 
----
+
 
 ### Lexical Analyzer with Flex/Bison
 Development of a lexical and syntax analyzer for a simple programming language.
@@ -46,5 +46,5 @@ Features:
 ---
 
 ## Contact
-Email: your@email.com
+Email: tarekflb@gmail.com
 LinkedIn: linkedin.com/... 
